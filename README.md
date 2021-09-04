@@ -9,7 +9,7 @@
 - 🤔 I’m looking for help with **Mobile dev** 
 - 📫 How to reach me: [![Twitter Badge](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FMatynele)](https://twitter.com/Matynele) | [![Linkedin Badge](https://img.shields.io/badge/-Matheus%20Fontenele-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-fontenele-7433aa194/)](https://www.linkedin.com/in/matheus-fontenele-7433aa194/) |
 [![Gmail Badge](https://img.shields.io/badge/-mc79846@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mc79846@gmail.com)](mailto:mc79846@gmail.com)
-- ⚡ Fun fact: I like to listen rap, classic music, gospel music, mc poze, kpop and pagode sometimes.
+- ⚡ Fun fact: I like to listen rap, classical music, gospel music, mc poze, kpop and pagode sometimes.
 
 <!--
 **MatheusF99/MatheusF99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
