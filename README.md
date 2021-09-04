@@ -20,7 +20,7 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusF99&layout=compact&langs_count=7&theme=radical"/>
 </div>
   
-#### Top Technologies
+#### Favorite Technologies ⚡
 
 <!-- TODO: Make technologies links takes you to repositories -->
 
