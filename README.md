@@ -2,10 +2,7 @@
 <h2 >Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Matheus</h2>
 <h3 >I'm a passionate Mobile Developer from Brazil.</h3>
 
-<!--
-**MatheusF99/MatheusF99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+<img src="https://github.com/MatheusF99/MatheusF99/blob/Workplace/assets/developer.svg" width="30%" align="right"/>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -15,6 +12,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+<!--
+**MatheusF99/MatheusF99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+
 -->
 <div>
   <a href="https://github.com/MatheusF99">
