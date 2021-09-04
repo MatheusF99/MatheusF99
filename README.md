@@ -16,8 +16,23 @@ Here are some ideas to get you started:
 -->
 <div>
   <a href="https://github.com/MatheusF99">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusF99&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusF99&layout=compact&langs_count=7&theme=radical"/>
+## 📊 My Github Stats
+
+  <br/>
+    <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Matheus's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MatheusF99&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Matheus's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusF99&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
+
+<br/>
+<br/>
+
+<a href="https://github.com/SubhamRaoniar28/github-readme-activity-graph"><img alt="Matheus's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=MatheusF99&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+<br/>
+<br/>
+
 </div>
   
 #### Favorite Technologies ⚡
